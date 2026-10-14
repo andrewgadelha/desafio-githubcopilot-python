@@ -1,4 +1,5 @@
 #Desafio Resolvendo Códigos em Python com o Github Copilot - DIO.me
+
 ## Exercícios de Python com GitHub Copilot
 
 Este repositório reúne exercícios introdutórios de Python feitos como parte de um desafio da DIO. **O objetivo principal foi praticar o uso do GitHub Copilot como apoio durante o desenvolvimento**, explorando sugestões de código e aprendendo a avaliar, adaptar e compreender o que foi sugerido.
